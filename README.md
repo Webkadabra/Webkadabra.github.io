@@ -4,7 +4,7 @@
 
 
 ## Open Source
-* [A CMS & routing module for Yii2 applications (PHP)](https://webkadabra.github.io/yii2-cms-module/) 
+* [A CMS & routing module for Yii2 applications (PHP)](https://github.com/Webkadabra/yii2-cms-module) 
 * [Yii2 Module for hosting podcasts](https://webkadabra.github.io/yii2-podcast-engine/)
 * [ReactJS/NodeJS task management system](https://github.com/Brainfock/Brainfock)
 
